@@ -1,0 +1,457 @@
+@media screen and (max-width: 1440px) {
+    #nav_bar {
+        margin-right: 25px;
+    }
+    ul {
+        font-size: 18px;
+    }
+    #hero-text {
+        font-size: 23px;
+    }
+    #about_text {
+        width: 47%;
+    }
+    #about_text p {
+        margin-left: 100px;
+        margin-top: 90px;
+        font-size: 18px;
+    }
+    #group_pic {
+        float: right;
+        margin-right: 100px;
+        margin-top: 90px;
+    }
+    #group_pic img {
+        height: 500px;
+        width: 550px;
+    }
+    #sq1, #sq2, #sq3, #sq4, #sq5, #sq6, #sq7, #sq8 {
+        height: 200px;
+        width: 250px;
+    }
+    #sq1 h4, #sq2 h4, #sq3 h4, #sq4 h4, #sq5 h4, #sq6 h4, #sq7 h4, #sq8 h4 {
+        font-size: 25px;
+        padding-top: 55px;
+    }
+    .column {
+        padding: 30px;
+    }
+    .row_1, .row_2 {
+        margin-left: 95px;
+    }
+    #we_deal_with h2 {
+        margin-top: 230px;
+        transform: translate(-120%);
+    }
+    #tony {
+        margin-left: 120px;
+    }
+    #quote_1 {
+        width: 41%;
+    }
+    #quote_1 h2 {
+        font-size: 35px;
+    }
+    #can_we_help {
+        width: 100%;
+        margin-top: 0;
+        margin-left: 40px;
+    }
+    #info p {
+        margin-left: 120px;
+        font-size: 18px;
+        width: 85%;
+    }
+    #address {
+        margin-right: 150px;
+    }
+    .container {
+        width: 40%;
+        margin-left: 100px;
+    }
+    input[type=text], select, textarea, label, input[type=submit] {
+        font-size: 18px;
+    }
+    input[type=submit]:hover {
+        font-size: 18px;
+    }
+    #address_2 p {
+        color: #4A2343;
+    }
+    #footer {
+        width: 102%;
+    }
+}
+
+@media screen and (max-width: 1360px) {
+    #logo img {
+        height: 100px;
+        width: 125px;
+    }
+    #nav_bar {
+        margin-top: -83px;
+    }
+    ul {
+        font-size: 17px;
+    }
+    #hero-text {
+        font-size: 20px;
+    }
+    #about_text {
+        width: 46%;
+    }
+    #about_text p {
+       font-size: 17px;
+        margin-left: 90px;
+    }
+    .row_1, .row_2 {
+        margin-left: 50px;
+        margin-top: -20px;
+    }
+    #we_deal_with h2 {
+        margin-top: 180px;
+        font-size: 38px;
+        transform: translate(-121%);
+    }
+    #sq1 h4, #sq2 h4, #sq3 h4, #sq4 h4, #sq5 h4, #sq6 h4, #sq7 h4, #sq8 h4 {
+        font-size: 24px;
+    }
+    #tony {
+        margin-left: 90px;
+    }
+    #tony img {
+        height: 430px;
+        width: 430px;
+    }
+    #quote_1 {
+        width: 57%;
+        margin-right: 0;
+    }
+    #quote_1 h2 {
+        font-size: 33px;
+    }
+    #can_we_help {
+        width: 90%;
+        margin-top: -15px;
+        margin-left: 80px;
+    }
+    #info p {
+        margin-left: 90px;
+        font-size: 17px;
+        width: 87%;
+    }
+    #address p {
+        font-size: 17px;
+    }
+    input[type=text], select, textarea, label, input[type=submit] {
+        font-size: 17px;
+    }
+    .container {
+        width: 42%;
+        margin-left: 70px;
+    }
+    #footer {
+        width: 100%;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 768px) and (orientation: landscape) {
+    ul {
+        font-size: 15px;
+    }
+    #nav_bar {
+        margin-top: -105px;
+    }
+    #hero-text {
+        font-size: 17px;
+    }
+    #about_text p {
+        font-size: 15px;
+        margin-left: 45px;
+        margin-top: 80px;
+    }
+    #group_pic img {
+        height: 400px;
+        width: 450px;
+    }
+    #group_pic {
+        margin-right: 50px;
+        margin-top: 80px;
+    }
+    #we_deal_with h2 {
+        margin-top: 250px;
+        font-size: 35px;
+        transform: translate(-85%);
+    }
+    .row_1, .row_2 {
+        margin-left: 25px;
+    }
+    #sq1, #sq2, #sq3, #sq4, #sq5, #sq6, #sq7, #sq8 {
+        height: 150px;
+        width: 180px;
+    }
+    #sq1 h4, #sq2 h4, #sq3 h4, #sq4 h4, #sq5 h4, #sq6 h4, #sq7 h4, #sq8 h4 {
+        font-size: 20px;
+        padding: 25px 15px 0 15px;
+    }
+    #tony {
+        margin-left: 60px;
+    }
+    #tony img {
+        height: 350px;
+        width: 350px;
+    }
+    #quotes {
+        margin-top: 100px;
+    }
+    #quote_1 h2 {
+        font-size: 28px;
+    }
+    #quote_1 {
+        width: 51%;
+        margin-right: 22px;
+        margin-top: -15px;
+    }
+    #can_we_help h2 {
+        margin-top: 100px;
+    }
+    #info p {
+        margin-left: 60px;
+        font-size: 15px;
+        width: 88%;
+    }
+    #can_we_help {
+        margin-left: 55px;
+    }
+    .container {
+        width: 40%;
+        margin-left: 45px;
+    }
+    #address {
+        margin-right: 80px;
+    }
+    #address p {
+        font-size: 15px;
+    }
+    input[type=text], select, textarea, label, input[type=submit] {
+        font-size: 15px;
+    }
+    #logo img {
+        height: 150px;
+        width: 190px;
+    }
+    #address_2 {
+        display: none;
+    }
+    #footer {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
+    #nav_bar {
+        display: none;
+    }
+    #logo img {
+        margin: auto;
+        display: block;
+        height: 150px;
+        width: 190px;
+        padding: 20px 0 20px 0;
+    }
+    #hero-text {
+        font-size: 16px;
+    }
+    #about_text {
+        width: 90%;
+    }
+    #about_text p {
+        margin-top: 70px;
+        margin-left: 70px;
+    }
+    #group_pic img {
+        height: 550px;
+        width: 600px;
+    }
+    #group_pic {
+        margin-right: 80px;
+    }
+    #we_deal_with h2 {
+        margin-top: 100px;
+        transform: translate(-47%);
+    }
+    .column {
+        padding: 10px;
+    }
+.row_1, .row_2 {
+    display: inline-block;
+}
+.row_1 {
+    float: left;
+    margin-top: 175px;
+    margin-left: 55px;
+}
+.row_2 {
+    float: right;
+    margin-top: -10px;
+    margin-right: 47px;
+}
+    #sq1 h4, #sq2 h4, #sq3 h4, #sq4 h4, #sq5 h4, #sq6 h4, #sq7 h4, #sq8 h4 {
+        font-size: 25px;
+    }
+    #sq1, #sq2, #sq3, #sq4, #sq5, #sq6, #sq7, #sq8 {
+        height: 200px;
+        width: 280px;
+    }
+    #tony {
+        margin-left: 65px;
+        margin-top: 120px;
+    }
+    #tony img {
+        height: 400px;
+        width: 400px;
+    }
+    #quote_1 {
+        width: 91%;
+        margin-top: 30px;
+    }
+    #quote_1 h2 {
+        font-size: 30px;
+    }
+    #can_we_help {
+        margin-left: 40px;
+    }
+    #can_we_help h2 {
+        margin-top: 90px;
+        font-size: 35px;
+    }
+    #info p {
+        margin-left: 70px;
+        width: 85%;
+    }
+    .container {
+        width: 78%;
+        margin-left: 50px;
+    }
+    #address {
+        display: none;
+    }
+    #address_2 {
+        margin-top: 50px;
+    }
+    #address_2 p {
+        text-align: left;
+        font-family: 'Zen Antique', serif;
+        letter-spacing: 3px;
+        color: white;
+        font-weight: lighter!important;
+        font-size: 17px;
+    }
+    #footer {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #nav_bar {
+        display: none;
+    }
+#logo img {
+    height: 120px;
+    width: 140px;
+    padding: 10px 0 15px 0;
+}
+#hero-image img {
+    height: 200px;
+}
+#hero-text h1 {
+     font-size: 20px;
+    }
+#hero-text h4 {
+    font-size: 15px;
+}
+#about_text {
+    width: 92%;
+}
+#about_text p {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+    #group_pic img {
+        height: 300px;
+        width: 330px;
+    }
+    #group_pic {
+        margin-top: 30px;
+        margin-right: 15px;
+    }
+    #we_deal_with h2 {
+        font-size: 25px;
+        margin-top: 40px;
+        transform: translate(-17%);
+    }
+    .row_1, .row_2 {
+        float: left;
+        margin-top: -10px;
+        margin-left: 60px;
+    }
+    .column {
+        padding: 5px;
+    }
+    #sq1, #sq2, #sq3, #sq4, #sq5, #sq6, #sq7, #sq8 {
+        height: 170px;
+        width: 230px;
+    }
+    #sq1 h4, #sq2 h4, #sq3 h4, #sq4 h4, #sq5 h4, #sq6 h4, #sq7 h4, #sq8 h4 {
+        font-size: 20px;
+        padding-top: 50px;
+    }
+    #tony {
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+    #tony img {
+        height: 300px;
+        width: 300px;
+    }
+    #quote_1 h2 {
+        font-size: 25px;
+    }
+    #quote_1 h4 {
+        font-size: 20px;
+    }
+    #quote_1 {
+        width: 88%;
+        margin-top: 10px;
+        margin-right: 13px;
+    }
+    #can_we_help {
+        margin-left: 25px;
+        width: 87%;
+    }
+    #can_we_help h2 {
+        font-size: 25px;
+        margin-top: 50px;
+    }
+    #info p {
+        margin-top: 10px;
+        margin-left: 30px;
+        font-size: 15px;
+    }
+    input[type=text], select, textarea, label, input[type=submit] {
+        font-size: 15px;
+    }
+    .container {
+        margin-left: 10px;
+        width: 82%;
+        margin-top: 20px;
+    }
+    #address_2 p {
+        font-size: 15px;
+    }
+    #footer p {
+        font-size: 13px;
+    }
+}
