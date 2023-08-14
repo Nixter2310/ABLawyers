@@ -129,6 +129,7 @@ li a:hover {
     letter-spacing: 3px;
     color: #4A2343;
     padding-top: 70px;
+     box-shadow: 15px 15px #888888;
 }
 #sq1:hover, #sq2:hover, #sq3:hover, #sq4:hover, #sq5:hover, #sq6:hover, #sq7:hover, #sq8:hover {
     background-color: navajowhite;
