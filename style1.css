@@ -121,6 +121,7 @@ li a:hover {
     height: 250px;
     width: 300px;
     background-color: #EFB862;
+    box-shadow: 15px 15px #888888;
 }
 #sq1 h4, #sq2 h4, #sq3 h4, #sq4 h4, #sq5 h4, #sq6 h4, #sq7 h4, #sq8 h4 {
     font-size: 30px;
@@ -129,7 +130,6 @@ li a:hover {
     letter-spacing: 3px;
     color: #4A2343;
     padding-top: 70px;
-     box-shadow: 15px 15px #888888;
 }
 #sq1:hover, #sq2:hover, #sq3:hover, #sq4:hover, #sq5:hover, #sq6:hover, #sq7:hover, #sq8:hover {
     background-color: navajowhite;
@@ -138,6 +138,7 @@ li a:hover {
 }
 #quotes {
     margin-top: 130px;
+    background-color: white;
 }
 #tony {
     float: left;
@@ -154,7 +155,7 @@ li a:hover {
     font-style: italic;
     font-family: 'Zen Antique', serif;
     letter-spacing: 3px;
-    color: white;
+    color: #4A2343;
     font-weight: lighter;
 }
 #quote_1 h4 {
@@ -163,7 +164,7 @@ li a:hover {
     font-style: italic;
     font-family: 'Zen Antique', serif;
     letter-spacing: 3px;
-    color: white;
+    color: #4A2343;
     font-weight: lighter;
 }
 #can_we_help {
